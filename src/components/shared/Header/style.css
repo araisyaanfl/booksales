@@ -1,0 +1,10 @@
+.nav-link {
+    color: #333; /* warna default */
+    transition: color 0.3s, border-bottom 0.3s;
+}
+  
+.nav-link:hover {
+    color: #f8fafd; /* warna hover */
+    background-color: #0878ef;
+    border-radius: 10px;
+}
